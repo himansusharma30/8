@@ -8,7 +8,7 @@ int main()
 	int arrival[]={0,25,30,60,100,105};
 	int burst[]={20,25,25,15,10,10};
 	int r_burst[6]=burst[6];
-	int tat[10],wt[10];
+	
 	
 	
 }
